@@ -1829,3 +1829,10 @@ This project is licensed under the [MIT License](LICENSE) © 2022 public-apis.
 
 💡 **Found a broken link or want to add a new API?**  
 Check out our [Contributing Guide](CONTRIBUTING.md) and help us keep this list up-to-date and useful for the developer community!
+
+---
+## 📜 Attribution & License
+This list is a curated adaptation of the [Public APIs](https://github.com/public-apis/public-apis) project, originally compiled by the open-source community and maintained by [APILayer](https://apilayer.com/).  
+It is distributed under the terms of the **MIT License**.  
+Original copyright: `© 2022 public-apis`  
+All APIs listed remain the intellectual property of their respective creators and service providers. This repository does not host, modify, or claim ownership of any third-party APIs.
