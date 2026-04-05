@@ -11,8 +11,8 @@ Whether you're fixing a typo, adding a new API, or improving documentation, ever
 1. **Fork** this repository
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/mohd-ali10/public-apis-curated.git
+   cd public-apis-curated
    ```
 3. **Create a branch** for your changes:
    ```bash
